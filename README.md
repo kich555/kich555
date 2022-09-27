@@ -10,7 +10,7 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
 <p></p>
 <p><img src="icons/remix.svg" alt="remix" width="12" height="12" /> 최근은 <a href="https://remix.run/">Remix.run</a>에 푹 빠져있습니다. <img src="icons/remix.svg" alt="remix" width="12" height="12" /></p>
 <img align="right"  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2><img src="pic/me.jpeg" alt="react" width="12" height="12" /> About me </h2>
+<h2> About me </h2>
 <ul>
 <li>❌ 파일당 코드 160줄을 넘기지 않습니다.</li>
 ( 비즈니스 로직, 스타일 등을 컴포넌트와 분리하여 사용하는 것을 좋아합니다. )
@@ -45,5 +45,8 @@ https://github.com/kich555/Practicing-React-Hook-Form/tree/master/src
 <a target="_blank" href="https://www.prisma.io/"><img src="icons/prisma.svg" alt="prisma" width="25" height="25" /></a>
 <a target="_blank" href="https://mswjs.io/"><img src="icons/msw.svg" alt="msw" width="25" height="25" /></a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=kich555&show_icons=true&count_private=true" alt="spiderpig86" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=kich555.kich555" alt="visitors"></p>
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=kich555&show_icons=true&theme=bear" alt="kich555" width = 500>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kich555&theme=dark&hide_border=true" alt="kich555" width = 500>
+</p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=kich555.kich555" alt="kich555"></p>
