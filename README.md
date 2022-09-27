@@ -27,7 +27,6 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
 <li>🎉 Fun Fact: 정말 우리집 고양이는 츄르를 좋아합니다.</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
-https://github.com/kich555/Practicing-React-Hook-Form/tree/master/src
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -49,8 +48,7 @@ https://github.com/kich555/Practicing-React-Hook-Form/tree/master/src
   <img src = "https://github-readme-stats.vercel.app/api?username=kich555&show_icons=true&theme=bear" alt="kich555" width = 500>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=kich555&theme=buefy&hide_border=true" alt="kich555" width = 500>
 </p>
-<p>
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</p>  
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=kich555.kich555" alt="kich555"></p>
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=kich555.kich555" alt="kich555"> <a href="https://wakatime.com/@30200ac1-28d5-4315-b104-b31a90d0102b"><img src="https://wakatime.com/badge/user/30200ac1-28d5-4315-b104-b31a90d0102b.svg" alt="Total time coded since Sep 28 2022" /></a></p>
