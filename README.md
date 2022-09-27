@@ -64,12 +64,12 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
 <br/>
 <br/>
 <p align='center'>
-  <img src = "https://github-readme-stats.vercel.app/api?username=kich555&show_icons=true&theme=bear" alt="kich555" width = 500>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kich555&theme=buefy&hide_border=true" alt="kich555" width = 500>
+  <img src = "https://github-readme-stats.vercel.app/api?username=kich555&show_icons=true&theme=bear" alt="kich555" width = 420>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kich555&theme=buefy&hide_border=true" alt="kich555" width = 420>
 </p>
 <p align='center'>
-  <img src = "stats/languages.svg" alt="kich555" width = 500>
-  <img src = "stats/overview.svg" alt="kich555" width = 500>
+  <img src = "stats/languages.svg" alt="kich555" width = 420>
+  <img src = "stats/overview.svg" alt="kich555" width = 420>
 </p>
 
 <!--START_SECTION:waka-->
