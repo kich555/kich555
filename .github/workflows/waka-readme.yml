@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 12am Seoul
-    - cron: '00 15 * * *'
+    - cron: '22 18  * *'
 
 jobs:
   update-readme:
