@@ -27,23 +27,23 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
 <li>🎉 Fun Fact: 정말 우리집 고양이는 츄르를 좋아합니다.</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
-
+https://github.com/kich555/Practicing-React-Hook-Form/tree/master/src
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
-<img src="icons/react.svg" alt="react" width="25" height="25" />
-<img src="icons/react-query.svg" alt="react-query" width="25" height="25" />
-<img src="icons/react-hook-form.svg" alt="react-hook-form" width="25" height="25" />
-<img src="icons/react-router.svg" alt="react-router" width="25" height="25" />
-<img src="icons/remix.svg" alt="remix" width="25" height="25" />
-<img src="icons/html-5.svg" alt="html-5" width="25" height="25" />
-<img src="icons/sass.svg" alt="sass" width="25" height="25" />
-<img src="icons/mantine.svg" alt="mantine" width="25" height="25" />
-<img src="icons/ant-design.svg" alt="ant-design" width="25" height="25" />
-<img src="icons/javascript.svg" alt="javascript" width="25" height="25" />
-<img src="icons/typescript.svg" alt="typescript" width="25" height="25" />
-<img src="icons/prisma.svg" alt="prisma" width="25" height="25" />
-<img src="icons/msw.svg" alt="msw" width="25" height="25" />
+<a target="_blank" rel="noreferrer noopener" href="https://reactjs.org/"><img src="icons/react.svg" alt="react" width="25" height="25" /></a>
+<a target="_blank" rel="noreferrer noopener" href="https://tanstack.com/query/v4"><img src="icons/react-query.svg" alt="react-query" width="25" height="25" /></a>
+<a target="_blank" rel="noreferrer noopener" href="https://react-hook-form.com/"><img src="icons/react-hook-form.svg" alt="react-hook-form" width="25" height="25" /></a>
+<a target="_blank" rel="noreferrer noopener" href="https://reactrouter.com/en/main"><img src="icons/react-router.svg" alt="react-router" width="25" height="25" /></a>
+<a target="_blank" rel="noreferrer noopener" href="https://remix.run/"><img src="icons/remix.svg" alt="remix" width="25" height="25" /></a>
+<a target="_blank" rel="noreferrer noopener" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="icons/html-5.svg" alt="html-5" width="25" height="25" /></a>
+<a target="_blank" rel="noreferrer noopener" href="https://sass-lang.com/"><img src="icons/sass.svg" alt="sass" width="25" height="25" /></a>
+<a target="_blank" rel="noreferrer noopener" href="https://mantine.dev/"><img src="icons/mantine.svg" alt="mantine" width="25" height="25" /></a>
+<a target="_blank" rel="noreferrer noopener" href="https://ant.design/"><img src="icons/ant-design.svg" alt="ant-design" width="25" height="25" /></a>
+<a target="_blank" rel="noreferrer noopener" href="https://developer.mozilla.org/ko/docs/Web/JavaScript"><img src="icons/javascript.svg" alt="javascript" width="25" height="25" /></a>
+<a target="_blank" rel="noreferrer noopener" href="https://www.typescriptlang.org/"><img src="icons/typescript.svg" alt="typescript" width="25" height="25" /></a>
+<a target="_blank" rel="noreferrer noopener" href="https://www.prisma.io/"><img src="icons/prisma.svg" alt="prisma" width="25" height="25" /></a>
+<a target="_blank" rel="noreferrer noopener" href="https://mswjs.io/"><img src="icons/msw.svg" alt="msw" width="25" height="25" /></a>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=kich555&show_icons=true&count_private=true" alt="spiderpig86" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=kich555.kich555" alt="visitors"></p>
