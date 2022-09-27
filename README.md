@@ -1,16 +1,49 @@
-### Hi there 👋
 
-<!--
-**kich555/kich555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Hey 👋, I'm KyungHyun Kim</h2>
+<p>안녕하세요 단순함이 최고의 미덕이라고 생각하고 즐겁게 개발하는 개발자 김경현입니다.
+<br/>
+<br/>
+UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 것을 좋아합니다.</p>
+
+<p></p>
+<p><img src="icons/remix.svg" alt="remix" width="12" height="12" /> 최근은 <a href="https://remix.run/">Remix.run</a>에 푹 빠져있습니다. <img src="icons/remix.svg" alt="remix" width="12" height="12" /></p>
+<img align="right"  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2><img src="pic/me.jpeg" alt="react" width="12" height="12" /> About me </h2>
+<ul>
+<li>❌ 파일당 코드 160줄을 넘기지 않습니다.</li>
+( 비즈니스 로직, 스타일 등을 컴포넌트와 분리하여 사용하는 것을 좋아합니다. )
+<li>👨‍💻 선언형 프로그래밍을 좋아합니다</li>
+(lodash와 같은 utility library, custom hooks, method등을 즐겨 사용합니다. )
+<li>👨‍💻 중첩 조건, 반복문 사용을 지양합니다.</li>
+( 복잡한 비즈니스 로직이 있다면 최대한 심플한 함수들로 쪼개어 조합합니다. )
+<li><img src="icons/react.svg" alt="react" width="12" height="12" />기술, 방법론 등의 맹목적인 사용을 지양합니다.</li>
+( 예를들어 Global state, contextAPI, props drilling 등 상황에 따라 적절하게 사용합니다. )
+<li>💬 소통하는 것을 매우 좋아합니다. </li>
+( "우리집 고양이 츄르를 좋아해" 에서부터 기술적인 소통까지 가리지 않습니다. )
+<li>🧐 언제나 새로운 것을 배우는걸 좋아하며, 간단히라도 배운 것을 적용해 보려 합니다. <a href="https://github.com/kich555?tab=repositories">Checkout my repositories</a> </li>
+<li>📙 제 이력서입니다. 많관부입니다.<a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+<li>🎉 Fun Fact: 정말 우리집 고양이는 츄르를 좋아합니다.</li>
+</ul>
+<h2>✒️ Recent Posts</h2>
+
+<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+<img src="icons/react.svg" alt="react" width="25" height="25" />
+<img src="icons/react-query.svg" alt="react-query" width="25" height="25" />
+<img src="icons/react-hook-form.svg" alt="react-hook-form" width="25" height="25" />
+<img src="icons/react-router.svg" alt="react-router" width="25" height="25" />
+<img src="icons/remix.svg" alt="remix" width="25" height="25" />
+<img src="icons/html-5.svg" alt="html-5" width="25" height="25" />
+<img src="icons/sass.svg" alt="sass" width="25" height="25" />
+<img src="icons/mantine.svg" alt="mantine" width="25" height="25" />
+<img src="icons/ant-design.svg" alt="ant-design" width="25" height="25" />
+<img src="icons/javascript.svg" alt="javascript" width="25" height="25" />
+<img src="icons/typescript.svg" alt="typescript" width="25" height="25" />
+<img src="icons/prisma.svg" alt="prisma" width="25" height="25" />
+<img src="icons/msw.svg" alt="msw" width="25" height="25" />
+</p>
+<img src="https://github-readme-stats.vercel.app/api?username=kich555&show_icons=true&count_private=true" alt="spiderpig86" />
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=kich555.kich555" alt="visitors"></p>
