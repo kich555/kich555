@@ -47,6 +47,10 @@ https://github.com/kich555/Practicing-React-Hook-Form/tree/master/src
 </p>
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=kich555&show_icons=true&theme=bear" alt="kich555" width = 500>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kich555&theme=dark&hide_border=true" alt="kich555" width = 500>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kich555&theme=buefy&hide_border=true" alt="kich555" width = 500>
 </p>
+<p>
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</p>  
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=kich555.kich555" alt="kich555"></p>
