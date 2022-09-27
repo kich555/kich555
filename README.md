@@ -46,30 +46,31 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
 <hr>
 <h2 align='center'>🚀 Some Tools I Use</h2>
 <br/>
-<br/>
 <p align="center">
-<a target="_blank" href="https://reactjs.org/"><img src="icons/react.svg" alt="react" width="25" height="25" /></a>
-<a target="_blank" href="https://tanstack.com/query/v4"><img src="icons/react-query.svg" alt="react-query" width="25" height="25" /></a>
-<a target="_blank" href="https://react-hook-form.com/"><img src="icons/react-hook-form.svg" alt="react-hook-form" width="25" height="25" /></a>
-<a target="_blank" href="https://reactrouter.com/en/main"><img src="icons/react-router.svg" alt="react-router" width="25" height="25" /></a>
-<a target="_blank" href="https://remix.run/"><img src="icons/remix.svg" alt="remix" width="25" height="25" /></a>
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="icons/html-5.svg" alt="html-5" width="25" height="25" /></a>
-<a target="_blank" href="https://sass-lang.com/"><img src="icons/sass.svg" alt="sass" width="25" height="25" /></a>
-<a target="_blank" href="https://mantine.dev/"><img src="icons/mantine.svg" alt="mantine" width="25" height="25" /></a>
-<a target="_blank" href="https://ant.design/"><img src="icons/ant-design.svg" alt="ant-design" width="25" height="25" /></a>
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="icons/javascript.svg" alt="javascript" width="25" height="25" /></a>
-<a target="_blank" href="https://www.typescriptlang.org/"><img src="icons/typescript.svg" alt="typescript" width="25" height="25" /></a>
-<a target="_blank" href="https://www.prisma.io/"><img src="icons/prisma.svg" alt="prisma" width="25" height="25" /></a>
-<a target="_blank" href="https://mswjs.io/"><img src="icons/msw.svg" alt="msw" width="25" height="25" /></a>
+<a target="_blank" href="https://reactjs.org/"><img src="icons/react.svg" alt="react" width="48" height="48" /></a>
+<a target="_blank" href="https://tanstack.com/query/v4"><img src="icons/react-query.svg" alt="react-query" width="48" height="48" /></a>
+<a target="_blank" href="https://react-hook-form.com/"><img src="icons/react-hook-form.svg" alt="react-hook-form" width="48" height="48" /></a>
+<a target="_blank" href="https://reactrouter.com/en/main"><img src="icons/react-router.svg" alt="react-router" width="48" height="48" /></a>
+<a target="_blank" href="https://remix.run/"><img src="icons/remix.svg" alt="remix" width="48" height="48" /></a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="icons/html-5.svg" alt="html-5" width="48" height="48" /></a>
+<a target="_blank" href="https://sass-lang.com/"><img src="icons/sass.svg" alt="sass" width="48" height="48" /></a>
+<a target="_blank" href="https://mantine.dev/"><img src="icons/mantine.svg" alt="mantine" width="48" height="48" /></a>
+<a target="_blank" href="https://ant.design/"><img src="icons/ant-design.svg" alt="ant-design" width="48" height="48" /></a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="icons/javascript.svg" alt="javascript" width="48" height="48" /></a>
+<a target="_blank" href="https://www.typescriptlang.org/"><img src="icons/typescript.svg" alt="typescript" width="48" height="48" /></a>
+<a target="_blank" href="https://www.prisma.io/"><img src="icons/prisma.svg" alt="prisma" width="48" height="48" /></a>
+<a target="_blank" href="https://mswjs.io/"><img src="icons/msw.svg" alt="msw" width="48" height="48" /></a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kich555&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-
+<br/>
+<br/>
+<p>
   <img src = "https://github-readme-stats.vercel.app/api?username=kich555&show_icons=true&theme=bear" alt="kich555" width = 500>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=kich555&theme=buefy&hide_border=true" alt="kich555" width = 500>
+</p>
+<p>
   <img src = "stats/languages.svg" alt="kich555" width = 500>
   <img src = "stats/overview.svg" alt="kich555" width = 500>
-![Most Used Languages](https://raw.githubusercontent.com/kich555/github-stats-transparent/output/generated/languages.svg)
+</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
