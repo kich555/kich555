@@ -50,13 +50,33 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
       <details>
       <summary>Check out my project 👀</summary>
         <a href="https://github.com/kich555/Style-Playground">Style Playground<a>
+          <br/>
+          <br/>
         <a href="https://github.com/kich555/Style-Playground">
-          <img src="pic/style-play-ground.gif" height="400"/>
+          <img src="pic/style-play-ground.gif" width="420" />
         </a>
-        <a href="https://github.com/kich555/To-Do-List-with-Remix.run">To Do List with Remix.run<a>
+          <br/>
+          <br/>
+        <a href="https://github.com/kich555/To-Do-List-with-Remix.run">To Do List with Remix<a>
+          <br/>
+          <br/>
         <a href="https://github.com/kich555/To-Do-List-with-Remix.run">
-          <img src="pic/dnd-todo-list.gif" height="400"/>
+          <img src="pic/dnd-todo-list.gif" width="420"/>
         </a>
+          <br/>
+          <br/>
+        <a href="https://github.com/kich555/kongbab-web">Congbab<a>
+          <br/>
+          <br/>
+        <a href="https://github.com/kich555/kongbab-web">
+          <img src="pic/congbab.gif" width="420"/>
+        </a>
+          <br/>
+          <br/>
+        WhiskyNavi Official Web Site 제작중...
+          <br/>
+          <br/>
+          <img src="pic/whiskyNavi.webp" width="420"/>
 
 
 <a href="https://devpost.com/software/emicus">
