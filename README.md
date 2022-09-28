@@ -54,7 +54,7 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
     <li>
       <h3>📙 제 이력서입니다. 많관부입니다.</h3>
     </li>
-    ( <a href="">resume</a>. )
+    ( <a href="https://kich555.notion.site/kich555/badec3f62f9341119155fe3b8d494725">resume</a>. )
     <br/>
     <br/>
     <li>
