@@ -65,19 +65,25 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
 <h2 align='center'>🚀 Some Tools I Use</h2>
 <br/>
 <p align="center">
+  <a target="_blank" href="https://aws.amazon.com/ko/what-is/javascript/"><img src="icons/javascript.svg" alt="javascript" width="48" height="48"  /></a>
+  <a target="_blank" href="https://www.typescriptlang.org/"><img src="icons/typescript.svg" alt="typescript" width="48" height="48" /></a>
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="icons/html-5.svg" alt="html-5" width="48" height="48" /></a>
+  <a target="_blank" href="https://sass-lang.com/"><img src="icons/sass.svg" alt="sass" width="48" height="48" /></a>
   <a target="_blank" href="https://reactjs.org/"><img src="icons/react.svg" alt="react" width="48" height="48" /></a>
   <a target="_blank" href="https://tanstack.com/query/v4"><img src="icons/react-query.svg" alt="react-query" width="48" height="48" /></a>
   <a target="_blank" href="https://react-hook-form.com/"><img src="icons/react-hook-form.svg" alt="react-hook-form" width="48" height="48" /></a>
   <a target="_blank" href="https://reactrouter.com/en/main"><img src="icons/react-router.svg" alt="react-router" width="48" height="48" /></a>
   <a target="_blank" href="https://remix.run/"><img src="icons/remix.svg" alt="remix" width="48" height="48" /></a>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="icons/html-5.svg" alt="html-5" width="48" height="48" /></a>
-  <a target="_blank" href="https://sass-lang.com/"><img src="icons/sass.svg" alt="sass" width="48" height="48" /></a>
+  <a size="48" target="_blank" href="https://styled-components.com/"><img src="https://styled-components.com/logo.png" alt="styled-components" width="48" height="48" /></a>
+  <a size="48" target="_blank" href="https://emotion.sh/docs/introduction"><img src="https://emotion.sh/logo-96x96.png" alt="styled-components" width="48" height="48" /></a>
   <a target="_blank" href="https://mantine.dev/"><img src="icons/mantine.svg" alt="mantine" width="48" height="48" /></a>
   <a target="_blank" href="https://ant.design/"><img src="icons/ant-design.svg" alt="ant-design" width="48" height="48" /></a>
-  <a target="_blank" href="https://aws.amazon.com/ko/what-is/javascript/"><img src="icons/javascript.svg" alt="javascript" width="48" height="48"  /></a>
-  <a target="_blank" href="https://www.typescriptlang.org/"><img src="icons/typescript.svg" alt="typescript" width="48" height="48" /></a>
   <a target="_blank" href="https://www.prisma.io/"><img src="icons/prisma.svg" alt="prisma" width="48" height="48" /></a>
   <a target="_blank" href="https://mswjs.io/"><img src="icons/msw.svg" alt="msw" width="48" height="48" /></a>
+
+  
+
+ 
 </p>
 <br/>
 <br/>
