@@ -49,6 +49,24 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
     </li>
     ( 간단히라도 배운 것을 적용해 보려 합니다. )
     <a href="https://github.com/kich555?tab=repositories">Checkout my repositories</a> 
+    <details>
+    <summary>Explore</summary>
+    <li>
+      <a target="_blank" href="">
+        
+      </a>
+    </li>
+    <li>
+      <a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">
+        ⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022
+      </a>
+    </li>
+    <li>
+      <a target="_blank" href="">
+        The Browser in the Browser (BITB) Attack - Lies, Deceit, and CSS — March 30, 2022
+      </a>
+    </li>
+</details>
     <br/>
     <br/>
     <li>
