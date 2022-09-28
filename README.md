@@ -52,11 +52,8 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
     <br/>
     <br/>
     <li>
-      <h3>📙 제 이력서입니다. 많관부입니다.</h3>
+      <h3>📙 제 <a href="https://kich555.notion.site/kich555/badec3f62f9341119155fe3b8d494725">이력서</a>입니다. 많관부입니다.</h3>
     </li>
-    ( <a href="https://kich555.notion.site/kich555/badec3f62f9341119155fe3b8d494725">resume</a>. )
-    <br/>
-    <br/>
     <li>
       <h3>🎉 Fun Fact: 정말 우리집 고양이는 츄르를 좋아합니다.</h3>
     </li>
