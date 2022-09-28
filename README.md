@@ -45,7 +45,7 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
     <br/>
     <br/>
     <li>
-      <h3>🧐 언제나 새로운 것을 배우는걸 좋아합니다.</h3>
+      <h3>🧐 언제나 새로운 것을 배우고 시도해 보는 것을 .</h3>
     </li>
       <details>
       <summary>Check out my project 👀</summary>
@@ -83,8 +83,6 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
 <img src="http://sungwoopark.com/images/medhacks/4.gif" height="400"/>
 </a>
 </details>
-    <br/>
-    <br/>
     <li>
       <h3>📙 제 <a href="https://kich555.notion.site/kich555/badec3f62f9341119155fe3b8d494725">이력서</a>입니다. 많관부입니다.</h3>
     </li>
