@@ -47,25 +47,21 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
     <li>
       <h3>🧐 언제나 새로운 것을 배우는걸 좋아합니다.</h3>
     </li>
-    ( 간단히라도 배운 것을 적용해 보려 합니다. )
-    <a href="https://github.com/kich555?tab=repositories">Checkout my repositories</a> 
-    <details>
-    <summary>Explore</summary>
-    <li>
-      <a target="_blank" href="">
-        
-      </a>
-    </li>
-    <li>
-      <a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">
-        ⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022
-      </a>
-    </li>
-    <li>
-      <a target="_blank" href="">
-        The Browser in the Browser (BITB) Attack - Lies, Deceit, and CSS — March 30, 2022
-      </a>
-    </li>
+      <details>
+      <summary>Check out my project 👀</summary>
+        <a href="https://github.com/kich555/Style-Playground">Style Playground<a>
+        <a href="https://github.com/kich555/Style-Playground">
+          <img src="pic/style-play-ground.gif" height="400"/>
+        </a>
+        <a href="https://github.com/kich555/To-Do-List-with-Remix.run">To Do List with Remix.run<a>
+        <a href="https://github.com/kich555/To-Do-List-with-Remix.run">
+          <img src="pic/dnd-todo-list.gif" height="400"/>
+        </a>
+
+
+<a href="https://devpost.com/software/emicus">
+<img src="http://sungwoopark.com/images/medhacks/4.gif" height="400"/>
+</a>
 </details>
     <br/>
     <br/>
