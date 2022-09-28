@@ -65,10 +65,10 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
         </a>
           <br/>
           <br/>
-        <a href="https://github.com/kich555/kongbab-web">Congbab<a>
+        <a href="https://congbab.com/">명도소송 웹 서비스 Congbab<a>
           <br/>
           <br/>
-        <a href="https://github.com/kich555/kongbab-web">
+        <a href="https://congbab.com/">
           <img src="pic/congbab.gif" width="420"/>
         </a>
           <br/>
