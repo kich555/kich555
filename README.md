@@ -50,6 +50,8 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
       <details>
       <summary>Check out my project 👀</summary>
         <a href="https://github.com/kich555/Style-Playground">Style Playground<a>
+        <a target="_blank" href="https://reactjs.org/"><img src="icons/react.svg" alt="react" width="48" height="48" /></a>
+        <a target="_blank" href="https://sass-lang.com/"><img src="icons/sass.svg" alt="sass" width="24" height="24" /></a>
           <br/>
           <br/>
         <a href="https://github.com/kich555/Style-Playground">
@@ -58,6 +60,11 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
           <br/>
           <br/>
         <a href="https://github.com/kich555/To-Do-List-with-Remix.run">To Do List with Remix<a>
+        <a target="_blank" href="https://www.typescriptlang.org/"><img src="icons/typescript.svg" alt="typescript" width="24" height="24" /></a>
+        <a target="_blank" href="https://remix.run/"><img src="icons/remix.svg" alt="remix" width="24" height="24" /></a>
+        <a target="_blank" href="https://www.prisma.io/"><img src="icons/prisma.svg" alt="prisma" width="24" height="24" /></a>
+        <a size="48" target="_blank" href="https://emotion.sh/docs/introduction"><img src="https://emotion.sh/logo-96x96.png" alt="emotion" width="24" height="24" /></a>
+        <a target="_blank" href="https://mantine.dev/"><img src="icons/mantine.svg" alt="mantine" width="24" height="24" /></a>
           <br/>
           <br/>
         <a href="https://github.com/kich555/To-Do-List-with-Remix.run">
@@ -66,6 +73,10 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
           <br/>
           <br/>
         <a href="https://congbab.com/">명도소송 웹 서비스 Congbab<a>
+        <a target="_blank" href="https://remix.run/"><img src="icons/remix.svg" alt="remix" width="24" height="24" /></a>
+        <a target="_blank" href="https://mswjs.io/"><img src="icons/msw.svg" alt="msw" width="24" height="24" /></a>
+        <a size="48" target="_blank" href="https://emotion.sh/docs/introduction"><img src="https://emotion.sh/logo-96x96.png" alt="emotion" width="24" height="24" /></a>
+        <a target="_blank" href="https://mantine.dev/"><img src="icons/mantine.svg" alt="mantine" width="24" height="24" /></a>  
           <br/>
           <br/>
         <a href="https://congbab.com/">
@@ -109,7 +120,7 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
   <a target="_blank" href="https://reactrouter.com/en/main"><img src="icons/react-router.svg" alt="react-router" width="48" height="48" /></a>
   <a target="_blank" href="https://remix.run/"><img src="icons/remix.svg" alt="remix" width="48" height="48" /></a>
   <a size="48" target="_blank" href="https://styled-components.com/"><img src="https://styled-components.com/logo.png" alt="styled-components" width="48" height="48" /></a>
-  <a size="48" target="_blank" href="https://emotion.sh/docs/introduction"><img src="https://emotion.sh/logo-96x96.png" alt="styled-components" width="48" height="48" /></a>
+  <a size="48" target="_blank" href="https://emotion.sh/docs/introduction"><img src="https://emotion.sh/logo-96x96.png" alt="emotion" width="48" height="48" /></a>
   <a target="_blank" href="https://mantine.dev/"><img src="icons/mantine.svg" alt="mantine" width="48" height="48" /></a>
   <a target="_blank" href="https://ant.design/"><img src="icons/ant-design.svg" alt="ant-design" width="48" height="48" /></a>
   <a target="_blank" href="https://www.prisma.io/"><img src="icons/prisma.svg" alt="prisma" width="48" height="48" /></a>
