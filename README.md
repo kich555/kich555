@@ -50,7 +50,7 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
       <details>
       <summary>Check out my project 👀</summary>
         <a href="https://github.com/kich555/Style-Playground">Style Playground<a>
-        <a target="_blank" href="https://reactjs.org/"><img src="icons/react.svg" alt="react" width="48" height="48" /></a>
+        <a target="_blank" href="https://reactjs.org/"><img src="icons/react.svg" alt="react" width="24" height="24" /></a>
         <a target="_blank" href="https://sass-lang.com/"><img src="icons/sass.svg" alt="sass" width="24" height="24" /></a>
           <br/>
           <br/>
@@ -74,7 +74,6 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
           <br/>
         <a href="https://congbab.com/">명도소송 웹 서비스 Congbab<a>
         <a target="_blank" href="https://remix.run/"><img src="icons/remix.svg" alt="remix" width="24" height="24" /></a>
-        <a target="_blank" href="https://mswjs.io/"><img src="icons/msw.svg" alt="msw" width="24" height="24" /></a>
         <a size="48" target="_blank" href="https://emotion.sh/docs/introduction"><img src="https://emotion.sh/logo-96x96.png" alt="emotion" width="24" height="24" /></a>
         <a target="_blank" href="https://mantine.dev/"><img src="icons/mantine.svg" alt="mantine" width="24" height="24" /></a>  
           <br/>
