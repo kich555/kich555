@@ -96,7 +96,7 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
 </details>
     <br/>
     <li>
-      <h3>📙 제 <a href="https://kich555.notion.site/kich555/badec3f62f9341119155fe3b8d494725">이력서</a>입니다. 많관부입니다.</h3>
+      <h3>📙 제 <a href="https://kich555.notion.site/badec3f62f9341119155fe3b8d494725">이력서</a>입니다. 많관부입니다.</h3>
     </li>
     <br/>
     <li>
