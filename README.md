@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/79491683/192609072-8aac24ee-b0db-4147-99f6-318a0c6806ad.png)
+<img src="pic/readme_header.png" />
+
 
 
 <p align='center'>안녕하세요 단순함이 최고의 미덕이라고 생각하고 즐겁게 개발하는 개발자 김경현입니다.
