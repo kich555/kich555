@@ -94,6 +94,18 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
 <img src="http://sungwoopark.com/images/medhacks/4.gif" height="400"/>
 </a>
 </details>
+    <li>
+      <h3>📝 개발에 관한 인사이트를 기록합니다.</h3>
+    </li>
+      <details>
+      <summary>Check out my posts 👀</summary>
+      <br/>
+      
+# link UX에 대하여
+[UX에 대하여]: https://kich555.notion.site/UX-a09303b3d2f8497b9250937d86511820
+
+        <li><a href="https://kich555.notion.site/UX-a09303b3d2f8497b9250937d86511820">UX에 대하여<a></li>
+      </details>
     <br/>
     <li>
       <h3>📙 제 <a href="https://kich555.notion.site/badec3f62f9341119155fe3b8d494725">이력서</a>입니다. 많관부입니다.</h3>
