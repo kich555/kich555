@@ -98,7 +98,6 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
       <details>
       <summary>Check out my posts 👀</summary>
       <br/>
-      [UX에 대하여]:(https://kich555.notion.site/UX-a09303b3d2f8497b9250937d86511820){:target="_blank"}
         <li><a href="https://kich555.notion.site/UX-a09303b3d2f8497b9250937d86511820">UX에 대하여<a></li>
       </details>
     <br/>
