@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/79491683/192609072-8aac24ee-b0db-4147-99f6-318a0c6806ad.png)
+<img src="pic/readme_header.png" />
+
 
 
 <p align='center'>안녕하세요 단순함이 최고의 미덕이라고 생각하고 즐겁게 개발하는 개발자 김경현입니다.
@@ -87,15 +88,21 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
           <br/>
           <br/>
           <img src="pic/whiskyNavi.webp" width="420"/>
-
-
 <a href="https://devpost.com/software/emicus">
 <img src="http://sungwoopark.com/images/medhacks/4.gif" height="400"/>
 </a>
 </details>
+    <li>
+      <h3>📝 개발에 관한 인사이트를 기록합니다.</h3>
+    </li>
+      <details>
+      <summary>Check out my posts 👀</summary>
+      <br/>
+        <li><a href="https://kich555.notion.site/UX-a09303b3d2f8497b9250937d86511820">UX에 대하여<a></li>
+      </details>
     <br/>
     <li>
-      <h3>📙 제 <a href="https://kich555.notion.site/kich555/badec3f62f9341119155fe3b8d494725">이력서</a>입니다. 많관부입니다.</h3>
+      <h3>📙 제 <a href="https://kich555.notion.site/badec3f62f9341119155fe3b8d494725">이력서</a>입니다. 많관부입니다.</h3>
     </li>
     <br/>
     <li>
