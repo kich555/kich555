@@ -147,12 +147,3 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
   <img src = "stats/overview.svg" alt="kich555" width = 420>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=kich555.kich555" alt="kich555">
-  <a href="https://wakatime.com/@30200ac1-28d5-4315-b104- b31a90d0102b">
-    <img src="https://wakatime.com/badge/user/30200ac1-28d5-4315-b104-b31a90d0102b.svg" alt="Total time coded since Sep 28 2022" />
-  </a>
-</p>
