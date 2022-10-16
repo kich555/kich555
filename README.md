@@ -99,6 +99,9 @@ UX, Design Pattern, 폴더 구조에 관심이 많으며, 지식을 나누는 �
       <summary>Check out my posts 👀</summary>
       <br/>
         <li><a href="https://kich555.notion.site/UX-a09303b3d2f8497b9250937d86511820">UX에 대하여<a></li>
+        <li><a href="https://kich555.notion.site/7e69785416eb4607bf56951b14507137">잘못된 추상화<a></li>
+        <li><a href="https://kich555.notion.site/State-Colocation-with-React-Form-07c9e5b1f9dd4378807f0e1a2f603008">상태 같이두기 with react form<a></li>
+        <li><a href="https://kich555.notion.site/Re-render-9b464a0217fc4634b1d27b59c7b53cff">Re-render에 대한 착각<a></li>
       </details>
     <br/>
     <li>
