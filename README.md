@@ -2,17 +2,17 @@
 
 
 
-<p align='center'>안녕하세요 단순함이 최고의 미덕이라고 생각하고 즐겁게 개발하는 개발자 김경현입니다.
+<p align='center'>안녕하세요 웹으로 세상에 편리함 한스푼 얹고싶은 웹 프론트 개발자 김경현 입니다.
 <br/>
 <br/>
-UX 와 생산성에 관심이 많으며, 지식을 나누는 것을 좋아합니다.
+적극적으로 소통하는것을 좋아합니다. 실속있는 커뮤니케이션으로 <b>하나의 팀으로서의 성장을 추구</b>합니다.
 <br/>
-특히나 요즘은 해결해야 할 To Do 가 많기때문에 생산성에 집중하고 있습니다. 
+새로운 기술을 사용하는 것도 좋아하지만 그 새로운것들을 <b>관통하는 철학에 중심을 두고 사용</b>하려고 노력합니다.
 <br/>
 done is better than perfect라는 말을 좋아합니다. 
 </p>
 <p align='center'>
-  요즈음에는 디자인시스템을 어떻게 차차 발전시켜 나갈지, 모노레포를 어떻게 효율적으로 사용할지, FE에서 BFF / WAS를 어떻게 꾸려갈 수 있을지 고민하고 있습니다. 
+  어느 상황에 놓여있던지간에 정해진 위치에서의 목표에 집중합니다.
 </p>
 
 <hr>
@@ -22,7 +22,7 @@ done is better than perfect라는 말을 좋아합니다.
 <div id="user-content-toc">
   <ul align='center'>
     <li>
-      <h3>❌ 파일당 코드 200줄을 넘기지 않습니다.</h3>
+      <h3>❌ 파일당 코드 300줄을 넘기지 않습니다.</h3>
     </li>
     ( 컴포넌트는 복잡합니다. VIEW, 비즈니스 로직, 상태관리 등을 따로 추상화하거나, 분리해서 사용하는 것을 좋아합니다. )
     <br/>
@@ -30,11 +30,11 @@ done is better than perfect라는 말을 좋아합니다.
     <li>
       <h3>👨‍💻 선언형 프로그래밍을 좋아합니다</h3>
     </li>
-    (lodash와 같은 utility library, custom hooks, React Lazy, Suspense, ErrorBoundary, React Query등을 즐겨 사용합니다.)
+    (lodash와 같은 utility library, custom hooks, React Query등을 즐겨 사용합니다.)
     <br/>
     <br/>
     <li>
-      <h3>:nut_and_bolt: 중첩 조건, 반복문 사용을 지양합니다.</h3>
+      <h3>:nut_and_bolt: 중첩 조건, 중첩 반복문 사용을 최대한 지양합니다.</h3>
     </li>
     ( 복잡한 비즈니스 로직이 있다면 최대한 심플한 함수들로 쪼개어 조합합니다. )
     <br/>
@@ -42,7 +42,7 @@ done is better than perfect라는 말을 좋아합니다.
     <li>
       <h3>📝 방법론, 기술스택, 디자인 패턴 등의 맹목적인 사용을 지양합니다.</h3>
     </li>
-    ( A상황에서의 Best Choice가 B상황에서도 Best일 거란 보장은 없습니다. )
+    ( "A" 상황에서의 Best Choice가 "B" 상황에서도 Best일 것이란 보장은 없습니다. )
     <br/>
     <br/>
     <li>
@@ -104,6 +104,9 @@ done is better than perfect라는 말을 좋아합니다.
 <img src="http://sungwoopark.com/images/medhacks/4.gif" height="400"/>
 </a>
 </details>
+    <br/>
+    (최근엔 React Server Component와 Next App Router를 주의깊게 보고 프로덕션 레벨에서도 사용해보고 있습니다.)
+    <br/>
     <li>
       <h3>📝 개발에 관한 인사이트를 기록합니다.</h3>
     </li>
@@ -141,6 +144,7 @@ done is better than perfect라는 말을 좋아합니다.
   <a target="_blank" href="https://tanstack.com/query/v4"><img src="icons/react-query.svg" alt="react-query" width="48" height="48" /></a>
   <a target="_blank" href="https://react-hook-form.com/"><img src="icons/react-hook-form.svg" alt="react-hook-form" width="48" height="48" /></a>
   <a target="_blank" href="https://reactrouter.com/en/main"><img src="icons/react-router.svg" alt="react-router" width="48" height="48" /></a>
+  <a target="_blank" href="https://nextjs.org/"><img src="icons/nextjs.svg" alt="nextjs" width="48" height="48" /></a>
   <a target="_blank" href="https://remix.run/"><img src="icons/remix.svg" alt="remix" width="48" height="48" /></a>
   <a size="48" target="_blank" href="https://styled-components.com/"><img src="https://styled-components.com/logo.png" alt="styled-components" width="48" height="48" /></a>
   <a size="48" target="_blank" href="https://emotion.sh/docs/introduction"><img src="https://emotion.sh/logo-96x96.png" alt="emotion" width="48" height="48" /></a>
