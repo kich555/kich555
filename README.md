@@ -122,6 +122,8 @@ done is better than perfect라는 말을 좋아합니다.
         <li><a href="https://kich555.notion.site/Mixed-Content-Issue-bcd51aac12a84ac58fedc496c8af5078">About Mixed Content<a></li>
         <li><a href="https://kich555.notion.site/XSS-69558fcdb39c40e4b94ce77f02dac548">About XSS<a></li>
         <li><a href="https://kich555.notion.site/About-CORS-b33e5886c8ca4f27beb751358011e789">About CORS<a></li>
+          <li><a href="[https://kich555.notion.site/About-CORS-b33e5886c8ca4f27beb751358011e789](https://kich555.notion.site/kich555/603923f556bf4372b91761d740218a2f?v=2d8a4e20455f40cd96d8be3156a3d25a)">더 많은 아티클을 확인하고 싶으시면 여기를 클릭해주세요<a></li>
+          
       </details>
     <br/>
     <li>
